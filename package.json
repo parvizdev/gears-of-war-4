@@ -1,14 +1,14 @@
 {
-  "name": "vantage-gow4-editor",
-  "author": "Team Vantage",
-  "description": "Gears of War 4 campaign mods by Team Vantage.",
+  "name": "Team ZNG",
+  "author": "Parviz ZNG",
+  "description": "Forza Horizon 3 Campaign Mods By Parviz ZNG.",
   "version": "0.1.0",
   "vantage": {
-    "game": "Gears of War 4",
-    "scid": "780f0100-3c66-41ff-b8cc-964f20ee78c6",
-    "thumbnailUrl": "http://images-eds.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTc7m7DdisPYa9rYxWbLTN0ct8VW1l4UR7wPB3e84IXDjsA9YoOAHAxSt1.df01sbTabLSGwy7tPEGTbRJaW7FdN8aYcGX5pCoFMZo.zEsX7wT7s_7drm02zRZmNuDGtxxnU4xW6n20BPyfUFYiM5h4Ndv06roCGzRrpDLOTH5Dt6o-&w=128&h=128",
+    "game": "Forza Horizon 3",
+    "scid": "19020100-9575-4c2b-9916-3d664ce1dfab",
+    "thumbnailUrl": "https://i.gyazo.com/d4dae22b07a485b2f6486e80cd9b2526.png",
     "name": "Campaign Editor",
-    "fileFilter": "/^GearSaveSlot_\\d+$/"
+    "fileFilter": "/^ForzaSaveSlot_\\d+$/"
   },
   "repository": {
     "type": "???",
